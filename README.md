@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Jyx0208">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=0F766E&center=true&vCenter=true&width=820&lines=Biomedical+AI+%7C+Multi-omics+%7C+Clinical+Data;Building+reproducible+bioinformatics+tools;Exploring+AI+agents+for+research+automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=0F766E&center=true&vCenter=true&width=900&lines=Biomedical+AI+%7C+Single-cell+Foundation+Models;Multi-omics+%7C+Clinical+Data+%7C+Cancer+Research;Building+reproducible+tools+for+computational+medicine" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,19 +12,42 @@
   <a href="https://github.com/Jyx0208?tab=followers"><img src="https://img.shields.io/github/followers/Jyx0208?style=for-the-badge&label=Followers&logo=github&color=0f766e" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=Jyx0208&style=for-the-badge&color=2563eb" alt="Profile views" />
   <a href="https://www.swmu.edu.cn/"><img src="https://img.shields.io/badge/Southwest%20Medical%20University-0f172a?style=for-the-badge" alt="Southwest Medical University" /></a>
+  <a href="https://github.com/MedXLab-SWMU"><img src="https://img.shields.io/badge/MedXLab--SWMU-Biomedical%20AI-0f766e?style=for-the-badge" alt="MedXLab-SWMU" /></a>
 </p>
 
 ---
 
 ## Focus
 
-I am a clinician and bioinformatics learner building practical tools for cancer multi-omics, biomedical data workflows, and AI-assisted research.
+I am a clinician and bioinformatics learner building practical tools for cancer multi-omics, single-cell analysis, biomedical foundation models, and AI-assisted research.
 
 ```text
-Clinical Medicine      Cancer Multi-omics      Biomedical AI
-TCGA / GDC Data        Python Pipelines        Deep Learning
-WSI + Omics            Research Agents         Reproducible Science
+Clinical Medicine      Single-cell Omics       Biomedical AI
+Cancer Multi-omics     Foundation Models       Deep Learning
+TCGA / GDC Data        Research Agents         Reproducible Science
 ```
+
+## Model Spotlight
+
+<table>
+  <tr>
+    <td width="34%" align="center">
+      <a href="https://github.com/MedXLab-SWMU/C2S-UC-Gemma-2B">
+        <img src="https://img.shields.io/badge/C2S--UC--Gemma--2B-Model%20Repository-0f766e?style=for-the-badge&logo=github" alt="C2S-UC-Gemma-2B GitHub repository" />
+      </a>
+      <br /><br />
+      <a href="https://huggingface.co/Jyx0208/C2S-UC-Gemma-2B">
+        <img src="https://img.shields.io/badge/Hugging%20Face-Model%20Card-ffcc4d?style=for-the-badge" alt="C2S-UC-Gemma-2B Hugging Face model" />
+      </a>
+    </td>
+    <td width="66%">
+      <h3><a href="https://github.com/MedXLab-SWMU/C2S-UC-Gemma-2B">C2S-UC-Gemma-2B</a></h3>
+      <p>A fine-tuned Cell2Sentence Gemma-2B model for ulcerative colitis single-cell RNA-seq cell type prediction.</p>
+      <p><b>Training data:</b> 311,920 human colon cells, 11,743 genes, 44 L3 cell types from HC and UC samples.</p>
+      <p><b>Evaluation:</b> 89.00% accuracy on 500 test samples, a 25x improvement over the original pre-trained model on the UC dataset.</p>
+    </td>
+  </tr>
+</table>
 
 ## Featured Work
 
@@ -63,6 +86,9 @@ WSI + Omics            Research Agents         Reproducible Science
 
 <p align="center">
   <img src="https://img.shields.io/badge/TCGA%20%2F%20GDC-2563EB?style=flat-square" alt="TCGA and GDC" />
+  <img src="https://img.shields.io/badge/Single--cell%20RNA--seq-0F766E?style=flat-square" alt="Single-cell RNA-seq" />
+  <img src="https://img.shields.io/badge/Cell2Sentence-2563EB?style=flat-square" alt="Cell2Sentence" />
+  <img src="https://img.shields.io/badge/Gemma--2B-0F172A?style=flat-square" alt="Gemma-2B" />
   <img src="https://img.shields.io/badge/Multi--omics-0F766E?style=flat-square" alt="Multi-omics" />
   <img src="https://img.shields.io/badge/WSI%20Analysis-7C3AED?style=flat-square" alt="WSI Analysis" />
   <img src="https://img.shields.io/badge/Biomedical%20AI-0F172A?style=flat-square" alt="Biomedical AI" />
