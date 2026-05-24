@@ -1,64 +1,110 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,45:2563EB,100:0F172A&height=230&section=header&text=YuXuan%20Jiang&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Clinician%20%7C%20Bioinformatician%20%7C%20Deep%20Learning%20Enthusiast&descSize=18&descAlignY=58" alt="YuXuan Jiang profile banner" />
+</p>
 
-# Hi, I'm YuXuan Jiang
+<p align="center">
+  <a href="https://github.com/Jyx0208">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=0F766E&center=true&vCenter=true&width=820&lines=Biomedical+AI+%7C+Multi-omics+%7C+Clinical+Data;Building+reproducible+bioinformatics+tools;Exploring+AI+agents+for+research+automation" alt="Typing SVG" />
+  </a>
+</p>
 
-### Clinician | Bioinformatician | Deep Learning Enthusiast
-
-I work at the intersection of clinical medicine, bioinformatics, and AI, with a focus on turning biomedical data into tools that are easier to analyze, interpret, and reuse.
-
-[![GitHub followers](https://img.shields.io/github/followers/Jyx0208?style=flat&label=Followers)](https://github.com/Jyx0208?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Jyx0208&style=flat&color=0e75b6)](https://github.com/Jyx0208)
-[![Southwest Medical University](https://img.shields.io/badge/Southwest%20Medical%20University-0066cc?style=flat)](https://www.swmu.edu.cn/)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Jyx0208?tab=followers"><img src="https://img.shields.io/github/followers/Jyx0208?style=for-the-badge&label=Followers&logo=github&color=0f766e" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jyx0208&style=for-the-badge&color=2563eb" alt="Profile views" />
+  <a href="https://www.swmu.edu.cn/"><img src="https://img.shields.io/badge/Southwest%20Medical%20University-0f172a?style=for-the-badge" alt="Southwest Medical University" /></a>
+</p>
 
 ---
 
-## About Me
+## Focus
 
-- Clinician with a growing focus on computational medicine and biomedical AI.
-- Building Python tools for genomics, transcriptomics, multi-modal cancer data, and medical data workflows.
-- Interested in deep learning, large language models, precision medicine, and reproducible bioinformatics.
-- Currently exploring how AI agents and biomedical knowledge systems can support research automation.
-
-## Research & Engineering Interests
+I am a clinician and bioinformatics learner building practical tools for cancer multi-omics, biomedical data workflows, and AI-assisted research.
 
 ```text
-Clinical Medicine        Bioinformatics        Deep Learning
-Cancer Multi-omics       TCGA / GDC Data       Biomedical AI Agents
-Python Tooling           Data Pipelines        Reproducible Research
+Clinical Medicine      Cancer Multi-omics      Biomedical AI
+TCGA / GDC Data        Python Pipelines        Deep Learning
+WSI + Omics            Research Agents         Reproducible Science
 ```
 
-## Featured Projects
+## Featured Work
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [TCGA-MMSifter](https://github.com/Jyx0208/TCGA-MMSifter) | Screens TCGA/GDC patients with complete multi-modal data, including RNA, CNV, WSI, and survival information, then generates manifests for `gdc-client`. | Python, TCGA/GDC |
-| [GeneNarrator](https://github.com/Jyx0208/GeneNarrator) | A Python project for gene-centered biomedical interpretation and narrative workflows. | Python |
-| [Genepriori](https://github.com/Jyx0208/Genepriori) | A Python project focused on gene prioritization workflows. | Python |
-| [agent-aireadyy](https://github.com/Jyx0208/agent-aireadyy) | Early experiments around AI-agent-assisted research or reading workflows. | Python |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Jyx0208/TCGA-MMSifter">TCGA-MMSifter</a></h3>
+      <p>Screen TCGA/GDC cohorts for complete multi-modal patient data, aligning RNA, CNV, WSI, and survival metadata with gdc-client manifests.</p>
+      <p><b>Keywords:</b> TCGA, GDC, multi-modal cancer data, WSI, survival analysis</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Jyx0208/GeneNarrator">GeneNarrator</a></h3>
+      <p>A Python toolkit for gene-centered biomedical interpretation and narrative generation.</p>
+      <p><b>Keywords:</b> gene interpretation, biomedical knowledge, Python</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Jyx0208/Genepriori">Genepriori</a></h3>
+      <p>A workflow for prioritizing candidate genes from biomedical evidence and analysis results.</p>
+      <p><b>Keywords:</b> gene prioritization, evidence ranking, bioinformatics</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Jyx0208/agent-aireadyy">agent-aireadyy</a></h3>
+      <p>AI-agent experiments for biomedical reading, research assistance, and workflow automation.</p>
+      <p><b>Keywords:</b> AI agents, research automation, biomedical reading</p>
+    </td>
+  </tr>
+</table>
 
 ## Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,linux,git,github,vscode&theme=light" alt="Skill icons" />
+</p>
 
-## GitHub Snapshot
+<p align="center">
+  <img src="https://img.shields.io/badge/TCGA%20%2F%20GDC-2563EB?style=flat-square" alt="TCGA and GDC" />
+  <img src="https://img.shields.io/badge/Multi--omics-0F766E?style=flat-square" alt="Multi-omics" />
+  <img src="https://img.shields.io/badge/WSI%20Analysis-7C3AED?style=flat-square" alt="WSI Analysis" />
+  <img src="https://img.shields.io/badge/Biomedical%20AI-0F172A?style=flat-square" alt="Biomedical AI" />
+  <img src="https://img.shields.io/badge/Reproducible%20Research-0891B2?style=flat-square" alt="Reproducible Research" />
+</p>
 
-<div align="center">
+## Metrics
 
-![YuXuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyx0208&show_icons=true&hide_border=true&rank_icon=github)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyx0208&theme=github" alt="Profile details" />
+</p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyx0208&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyx0208&theme=github" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyx0208&theme=github" alt="GitHub stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jyx0208&hide_border=true&background=FFFFFF00&ring=0F766E&fire=2563EB&currStreakLabel=0F766E&sideLabels=334155&dates=64748B" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyx0208&theme=github-compact&hide_border=true&area=true&color=0f766e&line=2563eb&point=0f172a" alt="Contribution activity graph" />
+</p>
+
+## Contribution Flow
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyx0208/Jyx0208/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jyx0208/Jyx0208/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Jyx0208/Jyx0208/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## Connect
 
-- GitHub: [@Jyx0208](https://github.com/Jyx0208)
-- Institution: [Southwest Medical University](https://www.swmu.edu.cn/)
+<p align="center">
+  <a href="https://github.com/Jyx0208"><img src="https://img.shields.io/badge/GitHub-Jyx0208-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.swmu.edu.cn/"><img src="https://img.shields.io/badge/Institution-SWMU-0f766e?style=for-the-badge" alt="Southwest Medical University" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:2563EB,100:0F766E&height=120&section=footer" alt="Footer wave" />
+</p>
